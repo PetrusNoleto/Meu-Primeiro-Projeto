@@ -1,0 +1,856 @@
+@media (min-width: 300px) and (max-width: 470px) {
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Georama', sans-serif;
+    height: auto;
+    background-color: purple;
+
+}
+
+#area-principal{
+    width: 100%;
+   
+    
+
+}
+#menu{
+ padding: 10px;
+ color: black;
+ background:#FFF ;
+
+ border-bottom: 2px solid black;
+
+}
+.menu-links{
+margin-left: 10px ;
+margin-top: 15px;
+font-size: 8px;
+
+
+}
+#logo{
+margin-left: 35px;
+margin-right: 30px ;
+text-decoration: none;
+color: black;
+font-size: 10px;
+}
+a.menu-links  {
+    text-decoration: none;
+    color: black;
+
+}
+a:hover.menu-links{
+     color: green;
+
+}
+img{
+
+    width: 100%;
+    height: 400px;
+
+
+
+}
+.conteudo{
+   
+    width: auto;
+    height: auto;
+    background-color: #fff;
+    color: black;
+    margin-top: 10px;
+    
+
+
+
+
+
+}
+.caixa{
+
+     width: 250px;
+    height: 500px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    margin-right: 20px;
+  
+    text-align: justify;
+    font-family: 'Georama', sans-serif;
+
+
+}
+.img-conteudo-1{
+    height: 200px;
+    width: 250px;
+    margin-left: 50px;
+    margin-right: 20px ;
+    margin-bottom: 20px;
+
+}
+.clear{
+    clear:both;
+}
+.rodape{
+
+background-color: black;
+height: 150px;
+color: #fff;
+text-align: center;
+padding: 0px;
+
+}
+.caixa2{
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.txtr{
+
+padding: 20px;
+
+
+}
+.sobre{
+
+    margin: 30px;
+    text-align: justify;
+    background-color: whitesmoke;
+
+}
+#Contato{
+
+text-align: center;
+padding: 199PX;
+
+}
+
+
+
+ }
+
+
+
+
+
+
+
+
+
+/*/ Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 480px) and (max-width: 575px) {
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Georama', sans-serif;
+    height: auto;
+    background-color: purple;
+
+}
+
+#area-principal{
+    width: 100%;
+   
+    
+
+}
+#menu{
+ padding: 10px;
+ color: black;
+ background:#FFF ;
+
+ border-bottom: 2px solid black;
+
+}
+.menu-links{
+margin-left: 10px ;
+margin-top: 15px;
+font-size: 12px;
+
+
+}
+#logo{
+margin-left: 35px;
+margin-right: 30px ;
+text-decoration: none;
+color: black;
+font-size: 18px;
+}
+a.menu-links  {
+    text-decoration: none;
+    color: black;
+
+}
+a:hover.menu-links{
+     color: green;
+
+}
+img{
+
+    width: 100%;
+    height: 400px;
+
+
+
+}
+.conteudo{
+   
+    width: auto;
+    height: auto;
+    background-color: #fff;
+    color: black;
+    margin-top: 10px;
+    
+
+
+
+
+
+}
+.caixa{
+
+     width: 380px;
+    height: 350px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    margin-right: 20px;
+  
+    text-align: justify;
+    font-family: 'Georama', sans-serif;
+
+
+}
+.img-conteudo-1{
+    height: 380px;
+    width: 380px;
+    margin-left: 50px;
+    margin-right: 20px ;
+    margin-bottom: 20px;
+
+}
+.clear{
+    clear:both;
+}
+.rodape{
+
+background-color: black;
+height: 150px;
+color: #fff;
+text-align: center;
+padding: 0px;
+
+}
+.caixa2{
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.txtr{
+
+padding: 20px;
+
+
+}
+.sobre{
+
+    margin: 30px;
+    text-align: justify;
+    background-color: whitesmoke;
+
+}
+#Contato{
+
+text-align: center;
+padding: 199PX;
+
+}
+
+
+
+ }
+
+
+
+
+
+
+/*/ Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px) { 
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Georama', sans-serif;
+    height: auto;
+    background-color: red;
+
+}
+
+#area-principal{
+    width: 100%;
+   
+    
+
+}
+#menu{
+ padding: 15px;
+ color: black;
+ background:#FFF ;
+
+ border-bottom: 2px solid black;
+
+}
+.menu-links{
+margin-left: 10px ;
+margin-top: 15px;
+font-size: 15px;
+
+
+}
+#logo{
+margin-left: 35px;
+margin-right: 30px ;
+text-decoration: none;
+color: black;
+font-size: 18px;
+}
+a.menu-links  {
+    text-decoration: none;
+    color: black;
+
+}
+a:hover.menu-links{
+     color: green;
+
+}
+img{
+
+    width: 100%;
+    height: 400px;
+
+
+
+}
+.conteudo{
+   
+    width: auto;
+    height: auto;
+    background-color: #fff;
+    color: black;
+    margin-top: 30px;
+    
+
+
+
+
+
+}
+.caixa{
+
+     width: 490px;
+    height: 300px;
+    
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-family: 'Georama', sans-serif;
+
+
+}
+.img-conteudo-1{
+    height: 350px;
+    width: 490px;
+    margin-left: 50px;
+    margin-right: 0px ;
+    margin-bottom: 20px;
+
+}
+.clear{
+    clear:both;
+}
+.rodape{
+
+background-color: black;
+height: 150px;
+color: #fff;
+text-align: center;
+padding: 0px;
+
+}
+.caixa2{
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.txtr{
+
+padding: 20px;
+
+
+}
+.sobre{
+
+    margin: 30px;
+    text-align: justify;
+    background-color: whitesmoke;
+
+}
+#Contato{
+
+text-align: center;
+padding: 199PX;
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+/*/ Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) {
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Georama', sans-serif;
+    height: auto;
+
+}
+
+#area-principal{
+    width: 100%;
+   
+    
+
+}
+#menu{
+ padding: 20px;
+ color: black;
+ background:#FFF ;
+
+ border-bottom: 2px solid black;
+
+}
+.menu-links{
+margin-left: 10px ;
+margin-top: 15px;
+font-size: 18px;
+
+
+}
+#logo{
+margin-left: 35px;
+margin-right: 150px ;
+text-decoration: none;
+color: black;
+font-size: 22px;
+}
+a.menu-links  {
+    text-decoration: none;
+    color: black;
+
+}
+a:hover.menu-links{
+     color: green;
+
+}
+img{
+
+    width: 100%;
+    height: 400px;
+
+
+
+}
+.conteudo{
+   
+    width: auto;
+    height: auto;
+    background-color: #fff;
+    color: black;
+    margin-top: 30px;
+    
+
+
+
+
+
+}
+.caixa{
+
+     width: 600px;
+    height: 300px;
+    
+    margin-left: 50px;
+    margin-right: 10px;
+  
+    text-align: justify;
+    font-family: 'Georama', sans-serif;
+
+
+}
+.img-conteudo-1{
+    height: 350px;
+    width: 600px;
+    margin-left: 50px;
+    margin-right: 0px ;
+    margin-bottom: 20px;
+
+}
+.clear{
+    clear:both;
+}
+.rodape{
+
+background-color: black;
+height: 150px;
+color: #fff;
+text-align: center;
+padding: 0px;
+
+}
+.caixa2{
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.txtr{
+
+padding: 20px;
+
+
+}
+.sobre{
+
+    margin: 30px;
+    text-align: justify;
+    background-color: whitesmoke;
+
+}
+#Contato{
+
+text-align: center;
+padding: 199PX;
+
+}
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+/*/ Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Georama', sans-serif;
+    height: auto;
+}
+
+#area-principal{
+    width: 100%;
+   
+    
+
+}
+#menu{
+ padding: 30px;
+ color: black;
+ background:#FFF ;
+
+ border-bottom: 2px solid black;
+
+}
+.menu-links{
+margin-left: 25px ;
+margin-top: 15px;
+font-size: 18px;
+
+
+}
+#logo{
+margin-left: 35px;
+margin-right: 150px ;
+text-decoration: none;
+color: black;
+font-size: 22px;
+}
+a.menu-links  {
+    text-decoration: none;
+    color: black;
+
+}
+a:hover.menu-links{
+     color: green;
+
+}
+img{
+
+    width: 100%;
+    height: 400px;
+
+
+
+}
+.conteudo{
+   
+    width: auto;
+    height: auto;
+    background-color: #fff;
+    color: black;
+    margin-top: 30px;
+    
+
+
+
+
+
+}
+.caixa{
+
+     width: 400px;
+    height: 400px;
+    
+    margin-left: 50px;
+    margin-right: 10px;
+    float: left;
+    text-align: justify;
+    font-family: 'Georama', sans-serif;
+
+
+}
+.img-conteudo-1{
+    height: 350px;
+    width: 470px;
+    margin-left: 15px;
+    margin-right: 0px ;
+
+}
+.clear{
+    clear:both;
+}
+.rodape{
+
+background-color: black;
+height: 150px;
+color: #fff;
+text-align: center;
+padding: 0px;
+
+}
+.caixa2{
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.txtr{
+
+padding: 20px;
+
+
+}
+.sobre{
+
+    margin: 30px;
+    text-align: justify;
+    background-color: whitesmoke;
+
+}
+#Contato{
+
+text-align: center;
+padding: 199PX;
+
+}
+
+
+}
+
+
+
+
+
+/*/ Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Georama', sans-serif;
+    height: auto;
+}
+
+#area-principal{
+    width: 100%;
+   
+    
+
+}
+#menu{
+ padding: 30px;
+ color: black;
+ background:#FFF ;
+
+ border-bottom: 2px solid black;
+
+}
+.menu-links{
+margin-left: 25px ;
+margin-top: 15px;
+font-size: 18px;
+
+
+}
+#logo{
+margin-left: 35px;
+margin-right: 150px ;
+text-decoration: none;
+color: black;
+font-size: 22px;
+}
+a.menu-links  {
+    text-decoration: none;
+    color: black;
+
+}
+a:hover.menu-links{
+     color: green;
+
+}
+img{
+
+    width: 100%;
+    height: 400px;
+
+
+
+}
+.conteudo{
+   
+    width: auto;
+    height: auto;
+    background-color: #fff;
+    color: black;
+    margin-top: 30px;
+    
+
+
+
+
+
+}
+.caixa{
+
+    width: 450px;
+    height: 400px;
+    
+    margin-left: 150px;
+    margin-right: 20px;
+    float: left;
+    text-align: justify;
+    font-family: 'Georama', sans-serif;
+
+
+}
+.img-conteudo-1{
+    height: 350px;
+    width: 530px;
+    
+    margin-left: 30px ;
+
+}
+.clear{
+    clear:both;
+}
+.rodape{
+
+background-color: black;
+height: 150px;
+color: #fff;
+text-align: center;
+padding: 0px;
+
+}
+.caixa2{
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.txtr{
+
+padding: 20px;
+
+
+}
+.sobre{
+
+    margin: 30px;
+    text-align: justify;
+    background-color: whitesmoke;
+
+}
+#Contato{
+
+text-align: center;
+padding: 199PX;
+
+}
+
+
+ }
